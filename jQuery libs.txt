@@ -1,0 +1,11 @@
+http://labs.voronianski.com/jquery.avgrund.js/#
+
+http://fabien-d.github.io/alertify.js/
+
+http://nick-jonas.github.io/windows/	
+
+http://jalxob.com/cool-kitten/
+
+http://johnpolacek.github.io/superscrollorama/
+
+http://joelb.me/scrollpath/
